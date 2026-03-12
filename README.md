@@ -148,4 +148,4 @@ Este projeto foi criado para praticar:
 Desenvolvido por **Marcello**
 Estudante de **Sistemas de Informação** e entusiasta de **Desenvolvimento Full Stack**.
 
-GitHub: https://github.com/seu-usuario
+GitHub: https://github.com/marcello-dev021
