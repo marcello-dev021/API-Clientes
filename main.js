@@ -10,6 +10,7 @@ form.addEventListener("submit", async (event) => {
   const name = document.getElementById("name").value;
   const email = document.getElementById("email").value;
 
+  
   const response = await fetch("http://localhost:3000/users", {
     method: "POST",
     headers: {
